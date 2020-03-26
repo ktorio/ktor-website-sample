@@ -1,7 +1,7 @@
-.gradle/
-build/
+/.gradle
+/.idea
+/out
+/build
 *.iml
-out/
-.DS_Store
-.idea/
-gradle/
+*.ipr
+*.iws
