@@ -4,4 +4,4 @@
 
 # Creating a static website with Ktor
 
-This repository is the code corresponding to the hands-on lab [Creating resources website with Ktor](https://play.kotlinlang.org/hands-on/Creating%20a%20website%20with%20ktor/01_Introduction). 
+This repository is the code corresponding to the hands-on lab [Creating an Interactive Website](https://ktor.io/docs/creating-interactive-website.html). 
